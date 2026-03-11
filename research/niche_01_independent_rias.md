@@ -26,7 +26,7 @@ Independent RIA owners are simultaneously CIO, CCO, BD lead, and client relation
 
 ## Avatar: Sarah Chen
 
-- **Demographics:** 42, Denver CO, founder of Evergreen Wealth Advisors (fee-only RIA, $110M AUM, ~85 client households, 3 staff). CFP, Series 65. SEC-registered.
+- **Demographics:** 42, Denver CO, founder of Evergreen Wealth Advisors (fee-only RIA, $110M AUM, ~85 client households, 3 staff). CFP®, Series 65. SEC-registered.
 - **Her pain:** "Am I missing something regulatory?" — She's her own CCO with no compliance team. Finds out about major developments weeks late through quarterly consultant calls.
 - **Current info diet:** Kitces Weekend Reading (most weeks, skims), InvestmentNews Daily Pulse (opens 3x/week, reads 20%), compliance consultant quarterly update (always behind 3 months).
 - **What makes her say "I need this":** A Monday morning briefing covering the 3 regulatory things that changed this week + 2 M&A developments. Readable in 5–7 minutes. Structured with "action required" vs. "nice to know."
@@ -36,13 +36,13 @@ Independent RIA owners are simultaneously CIO, CCO, BD lead, and client relation
 
 ## Pre-Built Agent Templates
 
-### Template 1: Regulatory Radar
+### Template 1: Regulatory Radar 🔴
 - **Schedule:** Weekly, Monday 6:00 AM
 - **Sources:** 15 (SEC litigation releases, admin proceedings, press releases, proposed/final rules, staff guidance, risk alerts, FINRA notices, enforcement actions, InvestmentNews, WealthManagement.com, Kitces, RIA Compliance Consultants, AdvisorLaw, ThinkAdvisor)
-- **Output:** Three-tier — Action Required / On Your Radar / Industry Context
+- **Output:** Three-tier — 🔴 Action Required / 🟡 On Your Radar / 🟢 Industry Context
 - **Read time:** 5–7 minutes
 
-### Template 2: M&A Intelligence
+### Template 2: M&A Intelligence 🏢
 - **Schedule:** Monday and Thursday, 6:00 AM
 - **Sources:** 18 (deal trackers, industry publications, PE activity monitors, breakaway watch sources)
 - **Output:** Deal Tracker table / Breakaway Watch / PE & Capital Moves / Trend Analysis
@@ -63,29 +63,41 @@ Independent RIA owners are simultaneously CIO, CCO, BD lead, and client relation
 
 ---
 
-## Reddit Subreddits
+## Reddit Subreddits for RIA Niche
 
-| Subreddit | Members (approx) | Relevance |
-|---|---|---|
-| r/financialplanning | ~200K | Medium |
-| r/CFP | ~15K | High |
-| r/FinancialAdvisor | ~10K | High |
-| r/RIA | ~2K | High |
-| r/wealthmanagement | ~5K | Medium |
-| r/FinancialCareers | ~250K | Low-Med |
-| r/Bogleheads | ~400K | Low |
+**Note:** RIAs are NOT a heavy Reddit demographic. Sarah Chen is not on r/entrepreneur. Reddit is a secondary/tertiary channel for this niche. Primary channels are XYPN Network, Kitces community, LinkedIn, and cold email via IARD/SEC public database.
 
-**Strategy:** Credibility channel, not promotion. Share regulatory insights, build reputation.
+| Subreddit | Members (approx) | Relevance | Notes |
+|---|---|---|---|
+| r/financialplanning | ~200K | Medium | Mix of consumers and advisors — can share insights as thought leadership |
+| r/CFP | ~15K | High | Specifically for CFP professionals — very targeted |
+| r/FinancialAdvisor | ~10K | High | Advisors discussing practice management, tools, compliance |
+| r/RIA | ~2K | High | Small but hyper-specific — directly the ICP |
+| r/wealthmanagement | ~5K | Medium | Mix of industry and consumer |
+| r/FinancialCareers | ~250K | Low-Med | Broader, but threads about compliance and regulatory changes surface |
+| r/Bogleheads | ~400K | Low | Consumer-focused but advisors lurk; credibility-building opportunity |
 
----
-
-## Go-To-Market
-
-1. Cold email beta outreach — 50 personalised emails via IARD/SEC database
-2. XYPN Network community
-3. Kitces community — long-term AdvisorTech Solutions Map
-4. Pricing: $79/month for both reports bundled
+**Reddit strategy for RIAs:** This is NOT a "post and promote" channel. It's a credibility channel. Share genuinely useful regulatory insights in r/CFP and r/FinancialAdvisor, build reputation, then when people ask "how do you stay on top of all this?" — that's the Lighthouse moment.
 
 ---
 
-*Validated niche, in active build.*
+## Go-To-Market (Already Planned)
+
+1. **Cold email beta outreach** — 50 personalised emails via IARD/SEC database, attaching sample Regulatory Radar report
+2. **XYPN Network** — post in community (thousands of independent RIAs, founder-friendly culture)
+3. **Kitces community** — long-term goal: get on the AdvisorTech Solutions Map
+4. **Pricing:** $79/month for both reports bundled (~$950/year, less than half a compliance consultant retainer)
+
+---
+
+## Key Files
+
+- `niche_ria_financial_advisors.md` — Complete niche playbook
+- `developer_handoff_ria_agents.md` — Template API endpoints, source lists, system prompts
+- `regulatory_radar_week_march_1_2026.md` — Live sample report
+- `ria_ma_intelligence_march_1_2026.md` — Live sample report
+- `avatar_report_review.md` — Avatar assessment of both reports
+
+---
+
+*This niche is validated and in active build. Use this file for context when building landing pages, outreach, or refining the product.*
