@@ -1,0 +1,1 @@
+See niche_01_independent_rias.md in lighthouse-landing-pages outputs
