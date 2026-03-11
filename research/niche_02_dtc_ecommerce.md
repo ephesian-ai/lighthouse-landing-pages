@@ -1,0 +1,1 @@
+See local file: /mnt/user-data/outputs/niche_02_dtc_ecommerce.md\n\nThis placeholder will be replaced with full content via git clone + push.
